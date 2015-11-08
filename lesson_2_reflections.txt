@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 For taking record of this new folder
+
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+
+Claro claro no lo tengo
